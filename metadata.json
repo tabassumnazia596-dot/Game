@@ -1,0 +1,6 @@
+{
+  "name": "PlayZone - Free Online Games Portal",
+  "description": "Play 20 free, instant-play browser games across Arcade, Action, Puzzle, and Brain categories with zero downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
